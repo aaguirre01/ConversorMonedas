@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832658716179",
+    "project_id": "conversormonedas-12a11",
+    "storage_bucket": "conversormonedas-12a11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832658716179:android:491538f3a58fa4ce11f1e6",
+        "android_client_info": {
+          "package_name": "com.example.conversormonedas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ5BhZNzPY6fqcvB-JUe6HsqUNiooSDQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
